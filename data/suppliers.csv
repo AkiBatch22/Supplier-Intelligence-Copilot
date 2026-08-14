@@ -1,0 +1,101 @@
+supplier_id,supplier_name,category,region,criticality,preferred_supplier,onboarding_date,archetype,primary_issue_driver
+SUP001,BluePeak Solutions,Hardware,South,Low,No,2022-08-02,Low-Cost Risky,material availability constraints
+SUP002,Nimbus Technologies,Marketing,West,Low,Yes,2021-05-27,High-Cost High-Quality,material availability constraints
+SUP003,Summit Industries,Cloud/SaaS,Central,Low,No,2023-01-11,Reliable,logistics network disruption
+SUP004,Nimbus Partners,Professional Services,West,Medium,No,2023-03-03,Low-Cost Risky,warehouse staffing shortage
+SUP005,Nexus Partners,Telecom,East,Low,Yes,2021-09-27,Reliable,capacity constraints
+SUP006,BluePeak Technologies,Office Supplies,North,Medium,Yes,2021-01-11,High-Cost High-Quality,capacity constraints
+SUP007,Sterling Systems,IT Services,West,Medium,No,2021-12-26,Low-Cost Risky,subcontractor performance issues
+SUP008,Vertex Global,Hardware,Central,High,Yes,2021-06-05,Reliable,capacity constraints
+SUP009,Horizon Industries,Logistics,North,Medium,No,2020-07-07,Reliable,invoice processing errors
+SUP010,Vertex Industries,Logistics,West,Medium,No,2022-06-17,Low-Cost Risky,capacity constraints
+SUP011,Nexus Enterprises,Telecom,South,Medium,No,2019-05-16,Deteriorating,material availability constraints
+SUP012,Sterling Services,Cloud/SaaS,South,Low,No,2024-04-25,High-Cost High-Quality,subcontractor performance issues
+SUP013,Atlas Global,Professional Services,East,High,Yes,2021-09-22,Reliable,warehouse staffing shortage
+SUP014,Prime Solutions,Telecom,West,Medium,Yes,2019-03-29,Reliable,logistics network disruption
+SUP015,Horizon Enterprises,Professional Services,West,Medium,No,2021-01-03,Low-Cost Risky,system integration delays
+SUP016,Orion Systems,Facilities,South,Medium,No,2024-04-19,Deteriorating,high employee turnover
+SUP017,Atlas Works,Office Supplies,Central,Medium,No,2019-06-02,Deteriorating,logistics network disruption
+SUP018,Orion Global,Staffing,North,High,Yes,2021-07-28,Reliable,material availability constraints
+SUP019,Orion Services,Office Supplies,Central,Low,No,2020-10-22,Deteriorating,subcontractor performance issues
+SUP020,Sterling Group,Cloud/SaaS,East,High,No,2020-03-29,Improving,warehouse staffing shortage
+SUP021,BluePeak Global,Hardware,East,Low,No,2019-11-18,Deteriorating,subcontractor performance issues
+SUP022,Nexus Group,IT Services,East,High,No,2023-07-24,Low-Cost Risky,quality-control process gaps
+SUP023,Pioneer Technologies,Hardware,Central,Medium,No,2023-03-16,Deteriorating,quality-control process gaps
+SUP024,Evergreen Services,Cloud/SaaS,Central,High,No,2023-07-23,Low-Cost Risky,forecasting and planning gaps
+SUP025,Quantum Group,IT Services,North,High,No,2023-12-02,Deteriorating,invoice processing errors
+SUP026,Prime Works,Logistics,North,Medium,No,2020-07-30,Low-Cost Risky,material availability constraints
+SUP027,Nimbus Services,Facilities,West,High,Yes,2023-05-29,Reliable,quality-control process gaps
+SUP028,Sterling Partners,Professional Services,Central,High,No,2019-01-15,Low-Cost Risky,logistics network disruption
+SUP029,Brightline Partners,Telecom,West,High,No,2021-08-01,Improving,system integration delays
+SUP030,BluePeak Industries,Professional Services,North,Medium,No,2022-11-11,Low-Cost Risky,forecasting and planning gaps
+SUP031,Nimbus Industries,Marketing,South,Low,No,2021-10-08,Deteriorating,warehouse staffing shortage
+SUP032,Prime Technologies,IT Services,East,Low,Yes,2022-02-11,Reliable,logistics network disruption
+SUP033,Atlas Group,Professional Services,Central,Low,No,2022-08-01,Improving,forecasting and planning gaps
+SUP034,Horizon Group,Professional Services,West,High,No,2021-07-31,Improving,logistics network disruption
+SUP035,SilverOak Enterprises,Office Supplies,West,Medium,No,2022-02-23,Low-Cost Risky,warehouse staffing shortage
+SUP036,Crest Enterprises,Logistics,South,Low,No,2022-06-23,Improving,high employee turnover
+SUP037,Redwood Services,Office Supplies,South,Medium,No,2023-05-09,Improving,logistics network disruption
+SUP038,Vertex Group,Cloud/SaaS,North,Low,Yes,2020-08-30,Reliable,high employee turnover
+SUP039,Apex Technologies,Professional Services,South,Medium,Yes,2024-06-08,Reliable,system integration delays
+SUP040,Summit Partners,IT Services,South,Medium,Yes,2023-09-03,Reliable,subcontractor performance issues
+SUP041,Nimbus Group,Facilities,South,Medium,Yes,2021-05-18,Reliable,warehouse staffing shortage
+SUP042,Horizon Global,IT Services,East,Low,No,2022-08-16,Improving,forecasting and planning gaps
+SUP043,Helix Global,Cloud/SaaS,South,Low,No,2024-06-15,Low-Cost Risky,high employee turnover
+SUP044,Vertex Services,Logistics,Central,Low,No,2022-08-21,Deteriorating,logistics network disruption
+SUP045,Crest Technologies,Marketing,South,Medium,No,2020-10-04,Low-Cost Risky,warehouse staffing shortage
+SUP046,Sterling Technologies,Office Supplies,Central,Medium,Yes,2019-11-30,Reliable,capacity constraints
+SUP047,Atlas Industries,Telecom,South,Medium,No,2022-10-25,Low-Cost Risky,quality-control process gaps
+SUP048,Brightline Group,Telecom,North,Low,Yes,2021-07-12,Reliable,forecasting and planning gaps
+SUP049,Horizon Technologies,Logistics,Central,Low,Yes,2021-09-18,Reliable,invoice processing errors
+SUP050,Orion Enterprises,Logistics,South,Medium,No,2021-06-11,Deteriorating,quality-control process gaps
+SUP051,Redwood Global,Hardware,Central,High,No,2022-09-29,Deteriorating,high employee turnover
+SUP052,Apex Global,Hardware,North,High,No,2022-06-14,Deteriorating,quality-control process gaps
+SUP053,Atlas Technologies,Logistics,Central,Low,Yes,2020-11-08,Reliable,invoice processing errors
+SUP054,Sterling Industries,Telecom,South,Medium,Yes,2024-04-07,High-Cost High-Quality,invoice processing errors
+SUP055,Pioneer Group,Hardware,North,Low,No,2020-06-11,Reliable,subcontractor performance issues
+SUP056,Atlas Solutions,IT Services,East,High,No,2023-04-07,Low-Cost Risky,invoice processing errors
+SUP057,Nimbus Solutions,Logistics,North,High,No,2023-01-13,Deteriorating,quality-control process gaps
+SUP058,Evergreen Works,Cloud/SaaS,South,Medium,No,2020-06-28,Reliable,warehouse staffing shortage
+SUP059,Brightline Enterprises,IT Services,East,Low,No,2022-11-09,Deteriorating,logistics network disruption
+SUP060,BluePeak Enterprises,Cloud/SaaS,West,High,No,2020-02-09,Deteriorating,quality-control process gaps
+SUP061,Prime Services,Facilities,West,Low,No,2021-12-29,Improving,capacity constraints
+SUP062,SilverOak Industries,Hardware,South,High,No,2019-12-20,High-Cost High-Quality,material availability constraints
+SUP063,Crest Solutions,Staffing,South,Low,No,2022-08-19,Low-Cost Risky,system integration delays
+SUP064,Evergreen Systems,Professional Services,South,Low,No,2021-05-14,Improving,logistics network disruption
+SUP065,Atlas Enterprises,Cloud/SaaS,West,Medium,No,2019-07-09,Improving,high employee turnover
+SUP066,Quantum Solutions,Logistics,East,Low,Yes,2022-07-23,Reliable,invoice processing errors
+SUP067,Nova Technologies,Marketing,West,Medium,Yes,2020-01-12,Reliable,capacity constraints
+SUP068,SilverOak Works,Cloud/SaaS,North,Medium,Yes,2020-10-21,Reliable,forecasting and planning gaps
+SUP069,Summit Systems,IT Services,West,Low,No,2023-05-06,Improving,high employee turnover
+SUP070,Summit Enterprises,Office Supplies,North,High,Yes,2019-12-08,High-Cost High-Quality,capacity constraints
+SUP071,Sterling Enterprises,Logistics,East,Medium,No,2022-05-09,Deteriorating,subcontractor performance issues
+SUP072,Quantum Partners,Hardware,Central,Low,No,2022-03-27,Reliable,subcontractor performance issues
+SUP073,Crest Services,Marketing,Central,Medium,No,2021-07-23,Deteriorating,high employee turnover
+SUP074,Apex Systems,Hardware,South,Medium,Yes,2023-04-15,Reliable,forecasting and planning gaps
+SUP075,Redwood Group,Staffing,South,Medium,No,2021-06-01,Deteriorating,quality-control process gaps
+SUP076,Vertex Systems,Cloud/SaaS,Central,Medium,No,2024-02-19,Improving,logistics network disruption
+SUP077,Brightline Industries,Professional Services,South,Low,No,2023-06-04,Deteriorating,logistics network disruption
+SUP078,Helix Works,Logistics,West,Medium,No,2020-06-17,Deteriorating,forecasting and planning gaps
+SUP079,Helix Partners,Professional Services,South,Medium,No,2023-08-27,Improving,warehouse staffing shortage
+SUP080,BluePeak Partners,Professional Services,South,High,No,2021-05-27,Reliable,high employee turnover
+SUP081,Redwood Solutions,Cloud/SaaS,South,High,Yes,2020-08-27,High-Cost High-Quality,material availability constraints
+SUP082,Nimbus Works,Telecom,West,Medium,Yes,2022-01-13,Reliable,high employee turnover
+SUP083,SilverOak Global,Staffing,South,Medium,Yes,2022-12-31,Reliable,system integration delays
+SUP084,Redwood Systems,Professional Services,East,High,No,2022-12-24,Low-Cost Risky,high employee turnover
+SUP085,Helix Industries,Hardware,West,Low,No,2024-05-04,Reliable,invoice processing errors
+SUP086,Prime Systems,Telecom,East,High,Yes,2020-04-05,Reliable,material availability constraints
+SUP087,Prime Partners,Facilities,South,Low,No,2020-09-11,Deteriorating,subcontractor performance issues
+SUP088,Quantum Global,Staffing,West,Low,No,2023-07-18,Low-Cost Risky,subcontractor performance issues
+SUP089,Crest Works,IT Services,Central,Medium,No,2020-02-10,Deteriorating,warehouse staffing shortage
+SUP090,Crest Partners,Cloud/SaaS,Central,High,Yes,2024-03-20,Reliable,logistics network disruption
+SUP091,Atlas Partners,Staffing,North,Medium,No,2019-12-28,Reliable,subcontractor performance issues
+SUP092,Orion Works,Cloud/SaaS,North,High,Yes,2019-11-26,Reliable,forecasting and planning gaps
+SUP093,Horizon Solutions,Logistics,West,Low,No,2019-07-01,High-Cost High-Quality,system integration delays
+SUP094,Nexus Solutions,Hardware,West,Medium,No,2023-02-06,High-Cost High-Quality,system integration delays
+SUP095,Quantum Enterprises,Office Supplies,East,High,No,2021-07-28,Deteriorating,subcontractor performance issues
+SUP096,Helix Solutions,Cloud/SaaS,North,High,No,2020-09-23,Low-Cost Risky,capacity constraints
+SUP097,Nova Solutions,Professional Services,South,High,No,2021-03-31,Improving,forecasting and planning gaps
+SUP098,Orion Industries,Facilities,West,Medium,Yes,2021-01-17,Reliable,forecasting and planning gaps
+SUP099,Summit Group,Hardware,East,Low,No,2024-03-10,Reliable,forecasting and planning gaps
+SUP100,BluePeak Services,Hardware,North,Medium,No,2020-04-26,Reliable,invoice processing errors

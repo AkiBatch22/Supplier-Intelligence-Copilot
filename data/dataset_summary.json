@@ -1,0 +1,31 @@
+{
+  "random_seed": 42,
+  "date_range": [
+    "2025-01-01",
+    "2026-06-01"
+  ],
+  "suppliers": 100,
+  "monthly_performance_rows": 1800,
+  "invoice_rows": 18162,
+  "incident_rows": 1370,
+  "supplier_review_rows": 1245,
+  "archetype_distribution": {
+    "Reliable": 35,
+    "Deteriorating": 23,
+    "Low-Cost Risky": 19,
+    "Improving": 14,
+    "High-Cost High-Quality": 9
+  },
+  "category_distribution": {
+    "Cloud/SaaS": 15,
+    "Hardware": 14,
+    "Professional Services": 14,
+    "Logistics": 13,
+    "IT Services": 10,
+    "Telecom": 9,
+    "Office Supplies": 8,
+    "Facilities": 6,
+    "Staffing": 6,
+    "Marketing": 5
+  }
+}
