@@ -1,5 +1,3 @@
-git remote add origin https://github.com/AkiBatch22/Supplier-Intelligence-Copilot.git
-
 # Virtual environments
 venv/
 .venv/

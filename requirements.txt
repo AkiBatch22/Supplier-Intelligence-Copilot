@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+sentence-transformers
+chromadb
+python-dotenv
+openai
+streamlit
+pytest
